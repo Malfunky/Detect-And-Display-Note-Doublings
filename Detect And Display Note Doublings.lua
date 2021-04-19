@@ -1,7 +1,5 @@
 
--- delayupdate = 0.7  
 -- Future/Wanted features :  
- 
 --  + Exclude muted takes
 --  + Delay chunkreading while zooming. 
 
