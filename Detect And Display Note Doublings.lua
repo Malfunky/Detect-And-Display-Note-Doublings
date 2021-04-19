@@ -6,7 +6,7 @@
 --  + Delay chunkreading while zooming. 
 
 -- USER DATA
-minimumnotepixellength = 5 -- in pixels.  Notes snammer will not be tagged
+minimumnotepixellength = 5 -- in pixels.  Notes smaller will not be tagged
 Fontsize = 15 
 color = 0xFFFFFFF -- 0xRRGGBB
 ------------------------------
