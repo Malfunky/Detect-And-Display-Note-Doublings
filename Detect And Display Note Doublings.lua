@@ -1,6 +1,5 @@
 -- WARNING : if notes are humanized in the midi editor. Doublings might not appear. 
 -- Huminazation should happen in the fx-chain
--- delayupdate = 0.7  
 -- Future/Wanted features :  
 --  + Solve the humanization issue.  ( pain to solve)
 --  + Exclude muted takes
